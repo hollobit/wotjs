@@ -1,4 +1,4 @@
-[![wot.js]](http://wotjs.com)
+# wotjs
 
 wot.js is an open source JavaScript framework for WoT(Web of Things) applications OSHW(Open Soure Hardware) using Node.js
 
