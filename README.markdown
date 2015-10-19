@@ -1,6 +1,6 @@
 # WoT.js
 
-WoT.js is an open source JavaScript framework for WoT(Web of Things) applications OSHW(Open Soure Hardware) using Node.js
+WoT.js is an open source JavaScript framework for WoT(Web of Things) applications on OSHW(Open Soure Hardware) using Node.js
 
 It provides a simple, but powerful way to create WoT application that incorporate 
 multiple, different hardware devices concurrently. 
